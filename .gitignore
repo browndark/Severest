@@ -1,0 +1,14 @@
+﻿*.pem
+*.key
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+results/
+results_*/
+node_modules/
+npm-debug.log*
